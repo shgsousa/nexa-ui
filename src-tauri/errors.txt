@@ -1,0 +1,26 @@
+    Checking windows-sys v0.61.2
+    Checking windows-sys v0.60.2
+    Checking winapi-util v0.1.11
+    Checking softbuffer v0.4.8
+    Checking dirs-sys v0.5.0
+    Checking mio v1.1.1
+    Checking os_pipe v1.2.3
+    Checking socket2 v0.6.2
+    Checking muda v0.17.1
+    Checking rfd v0.16.0
+    Checking shared_child v1.1.1
+    Checking dirs v6.0.0
+    Checking same-file v1.0.6
+    Checking walkdir v2.5.0
+    Checking tokio v1.49.0
+    Checking tauri-utils v2.8.2
+    Checking tauri-runtime v2.10.0
+    Checking tauri-runtime-wry v2.10.0
+    Checking tauri v2.10.2
+    Checking tauri-plugin-fs v2.4.5
+    Checking tauri-plugin-opener v2.5.3
+    Checking tauri-plugin-store v2.4.2
+    Checking tauri-plugin-shell v2.3.5
+    Checking tauri-plugin-dialog v2.6.0
+    Checking tauri-app v0.1.0 (C:\Users\sergi\projects\nexa-ui\src-tauri)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 13.50s
